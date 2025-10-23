@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:wisata_candi_mrizki_algipari/data/candi_data.dart';
-import 'package:wisata_candi_mrizki_algipari/screens/detail_screen.dart';
-import 'package:wisata_candi_mrizki_algipari/models/candi.dart';
+import 'package:aplikasi_candi_putriredamaulidia/data/candi_data.dart';
+import 'package:aplikasi_candi_putriredamaulidia/screens/detail_screen.dart';
+import 'package:aplikasi_candi_putriredamaulidia/models/candi.dart';
 
 void main() {
   runApp(const MyApp());
