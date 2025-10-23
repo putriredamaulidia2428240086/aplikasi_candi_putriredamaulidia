@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wisata_candi_mrizki_algipari/models/candi.dart';
+import 'package:wisata_candi_putriredamaulidia/models/candi.dart';
 
 class DetailScreen extends StatelessWidget {
   const DetailScreen({super.key, required this.candi});

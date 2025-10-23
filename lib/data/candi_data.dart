@@ -1,4 +1,4 @@
-import 'package:wisata_candi_mrizki_algipari/models/candi.dart';
+import 'package:wisata_candi_putriredamaulidia/models/candi.dart';
 
 var candiList = [
   Candi(

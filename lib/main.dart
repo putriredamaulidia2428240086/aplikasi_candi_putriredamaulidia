@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:aplikasi_candi_putriredamaulidia/data/candi_data.dart';
-import 'package:aplikasi_candi_putriredamaulidia/screens/detail_screen.dart';
-import 'package:aplikasi_candi_putriredamaulidia/models/candi.dart';
+import 'package:wisata_candi_putriredamaulidia/data/candi_data.dart';
+import 'package:wisata_candi_putriredamaulidia/models/candi.dart';
+import 'package:wisata_candi_putriredamaulidia/screens/detail_screen.dart';
 
 void main() {
   runApp(const MyApp());
